@@ -1,6 +1,7 @@
 {
-  "name": "angular-signal-store",
-  "version": "0.0.0",
+  "name": "shophub",
+  "version": "1.0.0",
+  "description": "Enterprise E-commerce Platform built with Angular & NGRX Signal Store",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
